@@ -13,9 +13,9 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description"> 
+        <p>We use English grammar every day, whether we’re speaking, writing, or reading. It’s the basic tool that helps us communicate clearly and effectively. But what exactly is English grammar? Let’s take a closer look.</p> 
         <a href="https://englishgrammarsoft.com">Learn English Grammar</a></p>
-        <p>  Get started by editing <code>pages/index.js</code>
-        </p>
+       
       </main>
 
       <Footer />
